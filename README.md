@@ -1,8 +1,8 @@
  # Ranking Api For Roblox
  A super cool lightweight web server than can process ranking requests.
  # How To Use
- First, fill in the ``.env`` file.
- Then you can watch this video tutorial for example use cases: <br />
+ First, fill in the ``.env`` file. <br />
+ Then you can watch these video tutorials for example use cases: <br />
  [Rank Management Centre](https://www.youtube.com/watch?v=w6LOWuLm10o)  <br />
  [Group Member Counter](https://www.youtube.com/watch?v=XE2GcjgRJSw) <br />
  [Quiz Centre](https://www.youtube.com/watch?v=CnaZ3v8rzQk) <br />
