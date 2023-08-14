@@ -1,5 +1,5 @@
 fastapi==0.101.1
 ro_py==1.2.0.5  
 asyncio==3.4.3
-python-dotenv==0.21.1
+python-dotenv==1.0.0
 uvicorn==0.14.0
