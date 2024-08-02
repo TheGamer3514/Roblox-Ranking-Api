@@ -1,4 +1,4 @@
-fastapi==0.111.1
+fastapi==0.112.0
 ro_py==1.2.0.5  
 asyncio==3.4.3
 python-dotenv==0.21.1
